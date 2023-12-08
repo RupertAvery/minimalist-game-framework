@@ -1,2 +1,4 @@
 .vs/
 Builds/
+/bin
+/obj
